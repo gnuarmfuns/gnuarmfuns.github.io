@@ -13,7 +13,7 @@ const initialState = {
   pdfDoc: null,
   currentPage: 1,
   pageCount: 0,
-  zoom: 1,
+  zoom: 4,
 };
 
 // Render the page
